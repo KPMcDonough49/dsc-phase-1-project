@@ -1,0 +1,16 @@
+Project Guidelines:
+
+Assignment Page: https://learning.flatironschool.com/courses/2421/assignments/111739?module_item_id=228857
+
+Project Checklist: https://docs.google.com/document/d/1ZFN9zle3-18Mtq2doEjMr3aUx2wCVySlQXzWuZiv_EY/edit 
+
+Project Contract: https://docs.google.com/document/d/1OoGke-mg9iZV3pD63_zA57T_tBEknAQ0Qqcrf1lLqfc/edit?ts=6095a96f
+
+
+Project Resources:
+
+GitHub Template URL: https://github.com/learn-co-curriculum/dsc-project-template/tree/master 
+
+Sample Final ipynb: https://github.com/learn-co-curriculum/dsc-project-template/blob/example-aab/animal_shelter_needs_analysis.ipynb 
+
+Presentation Template: https://github.com/learn-co-curriculum/dsc-project-template/blob/template-mvp/DS_Project_Presentation.pdf 

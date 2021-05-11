@@ -14,3 +14,8 @@ GitHub Template URL: https://github.com/learn-co-curriculum/dsc-project-template
 Sample Final ipynb: https://github.com/learn-co-curriculum/dsc-project-template/blob/example-aab/animal_shelter_needs_analysis.ipynb 
 
 Presentation Template: https://github.com/learn-co-curriculum/dsc-project-template/blob/template-mvp/DS_Project_Presentation.pdf 
+
+
+Git Instructions:
+
+Git Branch Lesson: https://learning.flatironschool.com/courses/2421/pages/collaborating-with-git-branches

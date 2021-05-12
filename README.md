@@ -1,34 +1,40 @@
 # Phase 1 Project
 ## Project Outline
 
-1. Title
-2. Overview
-3. Business Problem
+### 1. Title
+#### Authors: Kevin McDonough and Victor Chen
+### 2. Overview
+This project analyzes historical movie data to create recommendations for the highest likelihood of box office success. Based on data from IMDB, Rotten Tomatoes, and The Numbers, we identify characteristics of succcessful past films to give actionable insight for Microsoft to create a profitable film department.
 
-5. Data
-kaggle imdb data (5000 highest gross domestic movies prior to 2018) (keywords, directors, themes, actors correlation with gross domestic)
-the numbers (production cost vs gross domestic and gross worldwide)
-rotten tomatoes data (reviews analysis, rating correlated with box office)
+### 4. Business Problem
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-7. Methods
+### 5. Data
+We have three unique data sets that we work from. Each provides information in specific ways:
+
+IMDB: An online database with information related to films, television, streaming content, and video games. This data set was pulled from Kaggle, and has the 5000 highest gross domestic movies prior to 2018. It was specifically useful in analyzing the relationship between directors, actors, genres, themes, and keywords with box office success.  
+Rotten Tomatoes: A online aggregator of movie and tv show reviews from audiences and critics. This data set helped us determine the correlation, or lack thereof, between critic ratings and box office success.
+The Numbers: A film industry data website that tracks box office revenue in a systemic, algorithmic way. This data set was particularly useful for finding the relationship between production costs, domestic gross, and worldwide gross. 
+
+### 7. Methods
 Descriptive analysis, keyword analysis based on trends
 Audience reception based on ratings and box office gross
 
-9. Results (Visualizations)
+### 9. Results (Visualizations)
 
-11. Conclusions (Recommendations based on results)
+### 11. Conclusions (Recommendations based on results)
   1. No significant correlation between ratings and box office success, no need to focus in on genres, directors, and actors based on high ratings, should focus instead on high earnings
   2. recommendations for genres, directors, actors, and key themes that lead to high domestic gross
   3. correlation between production cost and domestic/worldwide gross is significant
 
-12. Recommendations
+### 12. Recommendations
   1. Don't exclusively focus on directors and actors with high ratings
   2. Specific recommendations for genres, directors, actors, themes
   3. estimated return on investment for specific budget (point that maximizes return)
 
-14. Next Steps
+### 14. Next Steps
   - Best combinations of actors and directors (optimization)
-16. Repo Structure
+### 16. Repo Structure
 
 
 ## Project Overview

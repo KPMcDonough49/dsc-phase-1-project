@@ -1,8 +1,16 @@
 # Phase 1 Project
+## Project Outline
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+1. Title
+2. Overview
+3. Business Problem
+4. Data
+5. Methods
+6. Results (Visualizations)
+7. Conclusions (Recommendations based on results)
+8. Next Steps
+9. Repo Structure
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
 
 ## Project Overview
 

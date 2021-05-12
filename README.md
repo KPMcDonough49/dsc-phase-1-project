@@ -4,12 +4,31 @@
 1. Title
 2. Overview
 3. Business Problem
-4. Data
-5. Methods
-6. Results (Visualizations)
-7. Conclusions (Recommendations based on results)
-8. Next Steps
-9. Repo Structure
+
+5. Data
+kaggle imdb data (5000 highest gross domestic movies prior to 2018) (keywords, directors, themes, actors correlation with gross domestic)
+the numbers (production cost vs gross domestic and gross worldwide)
+rotten tomatoes data (reviews analysis, rating correlated with box office)
+
+7. Methods
+Descriptive analysis, keyword analysis based on trends
+Audience reception based on ratings and box office gross
+
+9. Results (Visualizations)
+
+11. Conclusions (Recommendations based on results)
+  1. No significant correlation between ratings and box office success, no need to focus in on genres, directors, and actors based on high ratings, should focus instead on high earnings
+  2. recommendations for genres, directors, actors, and key themes that lead to high domestic gross
+  3. correlation between production cost and domestic/worldwide gross is significant
+
+12. Recommendations
+  1. Don't exclusively focus on directors and actors with high ratings
+  2. Specific recommendations for genres, directors, actors, themes
+  3. estimated return on investment for specific budget (point that maximizes return)
+
+14. Next Steps
+  - Best combinations of actors and directors (optimization)
+16. Repo Structure
 
 
 ## Project Overview

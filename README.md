@@ -39,7 +39,7 @@ The boxplot above provides additional information regarding genre profitability.
 
 ![Profitbale Directors](Visualizations/Director_profitability.png)
 
-After subsetting the data to include movies from our specified genres, we identified the directors that, on average create the highest-earning movies. The chart above gives us the 10 directors who have the highest grossing Action/Adventure/Family/Animation/Musical Movies. We think Microsoft should higher one of these individuals to direct their first movie because they all have a proven track record. 
+After subsetting the data to include movies from our specified genres, we identified the directors that, on average create the highest-earning movies. The chart above gives us the 10 directors who have the highest grossing Action/Adventure/Family/Animation/Musical Movies. We think Microsoft should hire one of these individuals to direct their first movie because they all have a proven track record. 
 
 ![Profitable Actors](Visualizations/Actor_profitability.png)
 

@@ -22,8 +22,9 @@ Audience reception based on ratings and box office gross
 
 ### Results (Visualizations)
 1. Rotten Tomatoes 
-2. IMDB
-3. The Numbers
+![RT Chart](Visualizations/RT_ratings_box_correlation.png)
+3. IMDB
+4. The Numbers
 
 ### Conclusions (Recommendations based on results)
   1. No significant correlation between ratings and box office success, no need to focus in on genres, directors, and actors based on high ratings, should focus instead on high earnings

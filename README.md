@@ -69,10 +69,10 @@ We are well aware that the recommendations we made for genre, actor, director an
 ### Recommendations
   1. Don't exclusively focus on directors and actors with high IMDB/Rotten Tomatoes ratings
   2. Specific recommendations for genres, directors, actors, themes:
-     Target Genres: Family, Action, Adventure, Animation, Musical
-     Target Directors: oss Whedon, George Lucas, Christopher Nolan, Andrew Adamson, Peter Jackson
-     Target Actors: Robert Downey, Robert Pattinson, Jennifer Lawrence, Kevin Dunn, Scarlett Johansson, Daniel Radcliffe, Jon Favreau, Orlando Bloom, John      Ratzenberger, Albert Finney
-     Target Themes: superhero, princess, magic, battle, monster, assasin, terrorist, soldier, professor, king, future, spy, vampire, president, alien, island, CIA, scientist, revenge
+     1. Target Genres: Family, Action, Adventure, Animation, Musical
+     2. Target Directors: Joss Whedon, George Lucas, Christopher Nolan, Andrew Adamson, Peter Jackson
+     3. Target Actors: Robert Downey, Robert Pattinson, Jennifer Lawrence, Kevin Dunn, Scarlett Johansson, Daniel Radcliffe, Jon Favreau, Orlando Bloom, John      Ratzenberger, Albert Finney
+     4. Target Themes: superhero, princess, magic, battle, monster, assasin, terrorist, soldier, professor, king, future, spy, vampire, president, alien, island, CIA, scientist, revenge
   3. Although creating a movie based on these recommendations may be expensive, it is worth it. There is a high correlation between budget and box office success. 
 
 ### Next Steps

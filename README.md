@@ -17,7 +17,7 @@ We have three unique data sets that we work from. Each provides unique informati
 * [The Numbers](https://www.the-numbers.com/): A film industry data website that tracks box office revenue in a systemic, algorithmic way. This data set was particularly useful for finding the relationship between production costs, domestic gross, and worldwide gross. 
 
 ### Methods
-Descriptive analysis, keyword analysis based on trends
+Descriptive analysis, keyword analysis based on trends. 
 Audience reception based on ratings and box office gross
 
 ### Results

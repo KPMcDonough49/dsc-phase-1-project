@@ -96,6 +96,12 @@ The variance of the domestic gross movies is much lower than that of the worldwi
      4. **Target Themes:** superhero, princess, magic, battle, monster, assasin, terrorist, soldier, professor, king, future, spy, vampire, president, alien, island, CIA, scientist, revenge
   3. Although creating a movie based on these recommendations may be expensive, it is worth it. There is a high correlation between budget and box office success. 
 
-### Next Steps
+### Next Steps *Should probably add some more next steps
   - Best combinations of actors and directors (optimization)
+
+### Links:
+[Technical Notebook](./technical_notebook.ipynb)
+
+[Visualizations](./Visualizations)
+
 ### Repo Structure

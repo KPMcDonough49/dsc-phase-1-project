@@ -74,7 +74,13 @@ worldwide gross: y=3.126943x+(-7285667.054592)
 
 domestic gross: y2=1.119087x+(6523888.576660)
 
-While this is a simple linear equation given the data points in the data set, and given that this gives only a rough estimation of a predicted gross box office result, it is at least something to help give us an idea of the relationship between the production budget and an estimated box office gross. 
+While this is a simple linear equation given the data points in the data set, and given that this gives only a rough estimation of a predicted gross box office result, it is at least something to help give us an idea of the relationship between the production budget and an estimated box office gross. Further, we can look to variance to help us determine the volatility, or risk factor, of each equation. 
+
+|           | Worldwide Gross | Domestic Gross  |
+| --------- | --------------- | --------------- |
+| Variance  |  3.052 * 10^16  | 4.656 * 10^15   |
+
+The variance of the domestic gross movies is much lower than that of the worldwide gross, indicating to us that the volatility of box office earnings is lower for domestic box offices than it is for international box offices. 
 
 ### High-Level Conclusions from Data Analysis 
   1. There is no significant correlation between ratings and box office success; although creating a critically-accalimed movie would be fantastic, we are more focused on box office success. 

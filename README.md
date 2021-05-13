@@ -61,15 +61,19 @@ The Y axis represents the average gross domestic revenue for movies that have th
 
 We are well aware that the recommendations we made for genre, actor, director and plot theme won't be cheap. The genres we identified tend to require large budgets for special effects, and the indiviuals we identified to direct and cast will command large salaries due to their past successes. That being said, the chart above shows us that there is a high correlation between budget and box office success. Production budget is on the x axis and box office gross revenue is on the y axis. The blue dots represent a particular movie's worldwide gross revenue whereas pink dots denote a movie's domestic gross revenue. The key takeaway is that movies with higher budgets generally earn more at the box office, and there is a large correlation between domestic gross revenue and worldwide gross revenue. The analysis we did previously focused on domestic gross revenue, and this correlation reassures us that we can extrapolate our conclusions to the worldwide market. 
 
-### Conclusions (Recommendations based on results)
-  1. No significant correlation between ratings and box office success, no need to focus in on genres, directors, and actors based on high ratings, should focus instead on high earnings
-  2. recommendations for genres, directors, actors, and key themes that lead to high domestic gross
-  3. correlation between production cost and domestic/worldwide gross is significant
+### High-Level Conclusions from Data Analysis 
+  1. There is no significant correlation between ratings and box office success, although creating a critically-accalimed movie would be fantastic, we are more focused on box office success. 
+  2. There are certain genres, actors, directors and plot themes that are associated with high-earning movies
+  3. There is a significant correlation between production cost and domestic/worldwide gross. You gotta spend money to make money! 
 
 ### Recommendations
-  1. Don't exclusively focus on directors and actors with high ratings
-  2. Specific recommendations for genres, directors, actors, themes
-  3. estimated return on investment for specific budget (point that maximizes return)
+  1. Don't exclusively focus on directors and actors with high IMDB/Rotten Tomatoes ratings
+  2. Specific recommendations for genres, directors, actors, themes:
+     <b>Target Genres:<b\> Family, Action, Adventure, Animation, Musical
+     Target Directors: oss Whedon, George Lucas, Christopher Nolan, Andrew Adamson, Peter Jackson
+     Target Actors: Robert Downey, Robert Pattinson, Jennifer Lawrence, Kevin Dunn, Scarlett Johansson, Daniel Radcliffe, Jon Favreau, Orlando Bloom, John      Ratzenberger, Albert Finney
+     Target Themes: superhero, princess, magic, battle, monster, assasin, terrorist, soldier, professor, king, future, spy, vampire, president, alien, island, CIA, scientist, revenge
+  3. Although creating a movie based on these recommendations may be expensive, it is worth it. There is a high correlation between budget and box office success. 
 
 ### Next Steps
   - Best combinations of actors and directors (optimization)

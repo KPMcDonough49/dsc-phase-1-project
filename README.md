@@ -13,7 +13,7 @@ Microsoft sees all the big companies creating original video content and they wa
 We have three unique data sets that we work from. Each provides information in specific ways:
 
 IMDB: An online database with information related to films, television, streaming content, and video games. This data set was pulled from Kaggle, and has the 5000 highest gross domestic movies prior to 2018. It was specifically useful in analyzing the relationship between directors, actors, genres, themes, and keywords with box office success.  
-Rotten Tomatoes: A online aggregator of movie and tv show reviews from audiences and critics. This data set helped us determine the correlation, or lack thereof, between critic ratings and box office success.
+* [Rotten Tomatoes](https://www.rottentomatoes.com/): A online aggregator of movie and tv show reviews from audiences and critics. This data set helped us determine the correlation, or lack thereof, between critic ratings and box office success.
 The Numbers: A film industry data website that tracks box office revenue in a systemic, algorithmic way. This data set was particularly useful for finding the relationship between production costs, domestic gross, and worldwide gross. 
 
 ### Methods

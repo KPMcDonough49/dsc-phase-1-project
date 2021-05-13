@@ -23,12 +23,7 @@ Audience reception based on ratings and box office gross
 ### Results (Visualizations)
 ![RT Chart](Visualizations/RT_ratings_box_correlation.png)
 ![IMDB Genre Profitability](Visualizations/Genre_profitability.png)
-![IMDB Genre Boxplot](Genre_profitability_boxplot.png)
-![IMDB Profitable Directors](Director_profitability.png)
-![IMDB Profitable Actors](Actor_profitability.png)
-![IMDB Keyword Counts](Keyword_counts.png)
-![IMDB Keyword Revenue](Keyword_revenue.png)
-![Production Budget Versus Gross Revenue](Production Budget vs. Gross Revenue Scatter.png)
+![IMDB Genre Boxploy](Visualizations/Genre_profitability_boxplot.png)
 
 ### Conclusions (Recommendations based on results)
   1. No significant correlation between ratings and box office success, no need to focus in on genres, directors, and actors based on high ratings, should focus instead on high earnings

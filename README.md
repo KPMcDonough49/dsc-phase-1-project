@@ -20,7 +20,7 @@ We have three unique data sets that we work from. Each provides unique informati
 Descriptive analysis, keyword analysis based on trends
 Audience reception based on ratings and box office gross
 
-### Results (Visualizations)
+### Results
 
 #### Rotten Tomatoes Ratings Versus Box Office Revenue
 ![RT Chart](Visualizations/RT_ratings_box_correlation.png)
@@ -59,19 +59,22 @@ The Y axis represents the average gross domestic revenue for movies that have th
 
 ![Budget Versus Gross Revenue](Visualizations/production_gross_scatter.png)
 
-We are well aware that the recommendations we made for genre, actor, director and plot theme won't be cheap. The genres we identified tend to require large budgets for special effects, and the indiviuals we identified to direct and cast will command large salaries due to their past successes. That being said, the chart above shows us that there is a high correlation between budget and box office success. Production budget is on the x axis and box office gross revenue is on the y axis. The blue dots represent a particular movie's worldwide gross revenue whereas pink dots denote a movie's domestic gross revenue. The key takeaway is that movies with higher budgets generally earn more at the box office, and there is a large correlation between domestic gross revenue and worldwide gross revenue. The analysis we did previously focused on domestic gross revenue, and this correlation reassures us that we can extrapolate our conclusions to the worldwide market. The table below gives a good depiction of the Pearson correlation coefficients for each gross revenue:
+We are well aware that the recommendations we made for genre, actor, director and plot theme won't be cheap. The genres we identified tend to require large budgets for special effects, and the indiviuals we identified to direct and cast will command large salaries due to their past successes. That being said, the chart above shows us that there is a high correlation between budget and box office success. Production budget is on the x axis and box office gross revenue is on the y axis. The blue dots represent a particular movie's worldwide gross revenue whereas pink dots denote a movie's domestic gross revenue. The key takeaway is that movies with higher budgets generally earn more at the box office, and there is a significant correlation between domestic gross revenue and worldwide gross revenue. The analysis we did previously focused on domestic gross revenue, and this correlation reassures us that we can extrapolate our conclusions to the worldwide market. The table below gives a good depiction of the Pearson correlation coefficients for each gross revenue:
 
 | Correlation Coefficient | Worldwide Gross | Domestic Gross  |
 | ----------------------- | --------------- | --------------- |
 | Production Budget       |  0.748306       |    0.685682     |
 
-Based on what we see of the scatterplot above, as well as the trend lines, there is a positive correlation for both, with the worldwide gross having a considerably higher slope (meaning higher returns (gross) on investment (production budget)). Releasing a film internationally generally gives better returns than releasing a film purely domestically.
+Based on what we see of the scatterplot above, as well as the trend lines, there is a positive correlation for both, with the worldwide gross having a considerably higher correlation. Releasing a film internationally generally gives better returns than releasing a film purely domestically.
 
 Taking a look at the trend line linear equations:
+
 
 worldwide gross: y=3.126943x+(-7285667.054592)
 
 domestic gross: y2=1.119087x+(6523888.576660)
+
+While this is a simple linear equation given the data points in the data set, and given that this gives only a rough estimation of a predicted gross box office result, it is at least something to help give us an idea of the relationship between the production budget and an estimated box office gross. 
 
 ### High-Level Conclusions from Data Analysis 
   1. There is no significant correlation between ratings and box office success; although creating a critically-accalimed movie would be fantastic, we are more focused on box office success. 

@@ -21,10 +21,14 @@ Descriptive analysis, keyword analysis based on trends
 Audience reception based on ratings and box office gross
 
 ### Results (Visualizations)
-1. Rotten Tomatoes 
 ![RT Chart](Visualizations/RT_ratings_box_correlation.png)
-3. IMDB
-4. The Numbers
+![IMDB Genre Profitability](Visualizations/Genre_profitability.png)
+![IMDB Genre Boxplot](Genre_profitability_boxplot.png)
+![IMDB Profitable Directors](Director_profitability.png)
+![IMDB Profitable Actors](Actor_profitability.png)
+![IMDB Keyword Counts](Keyword_counts.png)
+![IMDB Keyword Revenue](Keyword_revenue.png)
+![Production Budget Versus Gross Revenue](Production Budget vs. Gross Revenue Scatter.png)
 
 ### Conclusions (Recommendations based on results)
   1. No significant correlation between ratings and box office success, no need to focus in on genres, directors, and actors based on high ratings, should focus instead on high earnings

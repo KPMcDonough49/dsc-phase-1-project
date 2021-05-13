@@ -4,13 +4,13 @@
 ### Title
 #### Authors: Kevin McDonough and Victor Chen
 ### Overview
-This project analyzes historical movie data to create recommendations for the highest likelihood of box office success. Based on data from IMDB, Rotten Tomatoes, and The Numbers, we identify characteristics of succcessful past films to give actionable insight for Microsoft to create a profitable film department.
+This project analyzes historical movie data to create recommendations that will enable Microsoft to build a successful movie studio. Based on data from IMDB, Rotten Tomatoes, and The Numbers, we identify characteristics of succcessful past films. These characteristics, such as target genres and ideal plot themes, will aid Microsoft in creating profitable movies as well as provide insight into where the company should (and should not) devote resources. 
 
 ### Business Problem
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ### Data
-We have three unique data sets that we work from. Each provides information in specific ways:
+We have three unique data sets that we work from. Each provides unique information:
 
 * [IMDB](https://www.imdb.com/): An online database with information related to films, television, streaming content, and video games. This data set was pulled from Kaggle, and has the 5000 highest gross domestic movies prior to 2018. It was specifically useful in analyzing the relationship between directors, actors, genres, themes, and keywords with box office success.  
 * [Rotten Tomatoes](https://www.rottentomatoes.com/): An online aggregator of movie and tv show reviews from audiences and critics. This data set helped us determine the correlation, or lack thereof, between critic ratings and box office success.

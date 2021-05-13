@@ -31,7 +31,7 @@ Using rotten tomatoes data, we created a scatterplot comparing box office succes
 
 ![IMDB Genre Profitability](Visualizations/Genre_profitability.png)
 
-The Chart above shows us the average box office revenue for movies in each genre. According to the data the top 5 most profitable genres are Family, Action, Adventure, Animation and Musical. 
+The Chart above shows us the average box office revenue for movies in each genre. According to the data, the top 5 most profitable genres are Family, Action, Adventure, Animation and Musical. 
 
 ![IMDB Genre Boxplot](Visualizations/Genre_profitability_boxplot.png)
 

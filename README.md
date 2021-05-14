@@ -54,6 +54,14 @@ The theme 'love' appears most often, awwwwwww! After compiling all the plot them
 
 The Y axis represents the average gross domestic revenue for movies that have the associated keyword in their description. For example, movies that have 'superhero' as a keyword earn $149.6mm on average. Using this info, we believe that Microsoft should create a movie that focuses on one or more of these themes because they have proven to be profitable and therefore appealing to audiences. 
 
+#### Movie Randomizer
+Based on the recommendations above, we made a randomizer that selects a director, two actors and two plot themes and uses this to creare a critic review. In order to create more variety, we broadened each list to include 50 elements rather than 10 or 20 that we had identified in the chart.  Here is an example of an output:
+
+
+Directed by <b>Raja Gosnell<b>, critics are raving about Microsoft Studio's first film. Anchored by fantastic performances by <b>Jeremy Renner<b> and <b>Chris Hemsworth<b>, the film explores important themes such as <b>assassin(s)<b> and <b>superhero(s)<b>. Microsoft has set records at the box office with this film, and the future is bright for the new studio!
+
+
+
 #### Movies with Higher Budgets are More successful at the Box Office
 
 ![Budget Versus Gross Revenue](Visualizations/production_gross_scatter.png)

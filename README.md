@@ -58,7 +58,7 @@ The Y axis represents the average gross domestic revenue for movies that have th
 Based on the recommendations above, we made a randomizer that selects a director, two actors and two plot themes and uses this to creare a critic review. In order to create more variety, we broadened each list to include 50 elements rather than 10 or 20 that we had identified in the chart.  Here is an example of an output:
 
 
-Directed by <b>Raja Gosnell<b>, critics are raving about Microsoft Studio's first film. Anchored by fantastic performances by <b>Jeremy Renner<b> and <b>Chris Hemsworth<b>, the film explores important themes such as <b>assassin(s)<b> and <b>superhero(s)<b>. Microsoft has set records at the box office with this film, and the future is bright for the new studio!
+Directed by **Raja Gosnell**, critics are raving about Microsoft Studio's first film. Anchored by fantastic performances by **Jeremy Renner** and **Chris Hemsworth**, the film explores important themes such as **assassin(s)** and **superhero(s)**. Microsoft has set records at the box office with this film, and the future is bright for the new studio!
 
 
 

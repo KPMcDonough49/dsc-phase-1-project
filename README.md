@@ -98,6 +98,7 @@ The variance of the domestic gross movies is much lower than that of the worldwi
 
 ### Next Steps *Should probably add some more next steps
   - Best combinations of actors and directors (optimization)
+  - 
 
 ### For More Information: *needs to be finished*
 Please review our full analysis in our [Technical Notebook](./technical_notebook.ipynb), our [Visualizations](./Visualizations), or our [Presentation]. 
@@ -105,6 +106,7 @@ Please review our full analysis in our [Technical Notebook](./technical_notebook
 For any additional questions, please contact Victor Chen and Kevin McDonough
 
 ### Repo Structure *needs to be finished*
+'''
 ├── code
 │   ├── __init__.py
 │   ├── data_preparation.py
@@ -116,3 +118,4 @@ For any additional questions, please contact Victor Chen and Kevin McDonough
 ├── README.md
 ├── Animal_Shelter_Needs_Presentation.pdf
 └── animal_shelter_needs_analysis.ipynb
+'''

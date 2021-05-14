@@ -95,26 +95,41 @@ The variance of the domestic gross movies is much lower than that of the worldwi
      4. **Target Themes:** superhero, princess, magic, battle, monster, assasin, terrorist, soldier, professor, king, future, spy, vampire, president, alien, island, CIA, scientist, revenge
   3. Although creating a movie based on these recommendations may be expensive, it is worth it. There is a high correlation between budget and box office success. 
 
-### Next Steps *Should probably add some more next steps
+### Next Steps
   - Best combinations of actors and directors (optimization)
-  - 
+  - Different regression methods for a better estimate on ratings and gross
 
-### For More Information: *needs to be finished*
+### For More Information:
 Please review our full analysis in our [Technical Notebook](./technical_notebook.ipynb), our [Visualizations](./Visualizations), or our [Presentation](./phase_1_presentation.pdf). 
 
 For any additional questions, please contact Victor Chen and Kevin McDonough
 
-### Repo Structure *needs to be finished*
+### Repo Structure
 ```
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
-│   └── eda_notebook.ipynb
-├── data
-├── images
-├── __init__.py
+├── Code
+│   ├── IMDB_data.ipynb
+│   ├── New_IMDB_dataset.ipynb
+│   ├── rt_data.ipynb
+│   └── tn_cleaning.ipynb
+|
+├── Visualizations
+│   ├── Actor_profitability.png
+│   ├── Director_profitability.png
+│   ├── Genre_profitability.png
+│   ├── Genre_profitability_boxplot.png
+│   ├── Keyword_Bubble.png
+│   ├── Keyword_counts.png
+│   ├── Keyword_revenue.png
+│   ├── Production Budget vs. Gross Revenue Scatter.png
+│   ├── RT_Tomatometer_ratings_box_correlation.PNG
+│   ├── RT_ratings_box_correlation.png
+│   └── production_gross_scatter.png
+|
+├── zippedData
+├── .canvas
+├── .gitignore
+├── LICENSE.md
 ├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── phase_1_presentation.pdf
+└── technical_notebook.ipynb
 ```

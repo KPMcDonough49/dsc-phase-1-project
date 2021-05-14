@@ -1,8 +1,6 @@
-# Phase 1 Project
-## Project Outline
-
-### Title
+## Creation of a Film Studio 
 #### Authors: Kevin McDonough and Victor Chen
+
 ### Overview
 This project analyzes historical movie data to create recommendations that will enable Microsoft to build a successful movie studio. Based on data from IMDB, Rotten Tomatoes, and The Numbers, we identify characteristics of succcessful past films. These characteristics, such as target genres and ideal plot themes, will aid Microsoft in creating profitable movies as well as provide insight into where the company should (and should not) devote resources. 
 
@@ -17,29 +15,30 @@ We have three unique data sets that we work from. Each provides unique informati
 * [The Numbers](https://www.the-numbers.com/): A film industry data website that tracks box office revenue in a systemic, algorithmic way. This data set was particularly useful for finding the relationship between production costs, domestic gross, and worldwide gross. 
 
 ### Methods
-Descriptive analysis, keyword analysis based on trends. 
+Descriptive analysis, keyword analysis based on frequency of keywords and average revenue per keyword. 
 Audience reception based on ratings and box office gross
+Correlation analysis and linear regression based on budget and domestic / worldwide gross revenue. 
 
 ### Results
 
 #### Rotten Tomatoes Ratings Versus Box Office Revenue
 ![RT Chart](Visualizations/RT_ratings_box_correlation.png)
 
-Using rotten tomatoes data, we created a scatterplot comparing box office success (y axes) with average critic scores (x axes). We used two different measures of critic ratings in the charts above. On the left, we created a 'standardized' score that took each reviewers score and returned a number out of 100. For example, if the critic gave a 4/5 we turned that into an 80, whereas if the critic gave a 'B', we turned that into an 85. On the right, we used the Rotten Tomatoes 'Tomatometer.' This number represents that percentage of critics who rated the movie 'fresh'. The two charts above showed us that box office success was not correlated with critic score. The correlation between box office revenue and our 'standardized' rating is .102 and the correlation between box office revenue and the tomatometer is .066. Although making a movie that is well-received by critics would be great, our goal is to make money. Moving forward we will try to identify ways to maximize box office revenue, not critic scores. 
+Using rotten tomatoes data, we created a scatterplot comparing box office success (y axes) with average critic scores (x axes). We used two different measures of critic ratings in the charts above. On the left, we created a 'standardized' score that took each reviewers score and returned a number out of 100. For example, if the critic gave a 4/5 we turned that into an 80, whereas if the critic gave a 'B', we turned that into an 85. On the right, we used the Rotten Tomatoes 'Tomatometer.' This number represents the percentage of critics who rated the movie 'fresh'. The two charts above showed us that box office success was not correlated with critic score. The correlation between box office revenue and our 'standardized' rating is .102 and the correlation between box office revenue and the tomatometer is .066. Although making a movie that is well-received by critics would be great, our goal is to make money. Moving forward we will try to identify ways to maximize box office revenue, not critic scores. 
 
 #### Features of Box Office Success 
 
 ![IMDB Genre Profitability](Visualizations/Genre_profitability.png)
 
-The Chart above shows us the average box office revenue for movies in each genre. According to the data, the top 5 most profitable genres are Family, Action, Adventure, Animation and Musical. 
+The Chart above shows us the average box office revenue for movies in each genre. According to the data, the top 5 most profitable genres are Adventure, Animation, Action, Sci-Fi, Musical, Mystery and Fantasy. We recommend making a movie in one of these categories. However, because their are only four 'Musical' movies in this dataset, we decided that Microsoft should avoid this genre because there isn't enough data to confidently say this is a profitable category. 
 
 ![IMDB Genre Boxplot](Visualizations/Genre_profitability_boxplot.png)
 
-The boxplot above provides additional information regarding genre profitability. Although Family movies have the highest average domestic box office revenue, we can see that the median is much lower than the other genres, so the data must be skewed by a couple big earners. The boxplot also shows us that many of the highest earning movies are in either the adventure or action genres. We believe Microsoft should create a movie in one of these five genres, and, moving forward, we will subset the IMDB data to only include movies from these categories. 
+The boxplot above provides additional information regarding genre profitability. The boxplot shows us that many of the highest earning movies are in either the adventure or action genres. 
 
 ![Profitbale Directors](Visualizations/Director_profitability.png)
 
-After subsetting the data to include movies from our specified genres, we identified the directors that, on average create the highest-earning movies. The chart above gives us the 10 directors who have the highest grossing Action/Adventure/Family/Animation/Musical Movies. We think Microsoft should hire one of these individuals to direct their first movie because they all have a proven track record. 
+After subsetting the data to include movies from our specified genres, we identified the directors that, on average create the highest-earning movies. The chart above gives us the 10 directors who have the highest grossing Adventure/Animation/Action/Sci-Fi/Mystery/Fantasy movies. We think Microsoft should hire one of these individuals to direct their first movie because they all have a proven track record. 
 
 ![Profitable Actors](Visualizations/Actor_profitability.png)
 

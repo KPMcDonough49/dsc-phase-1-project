@@ -101,7 +101,7 @@ The variance of the domestic gross movies is much lower than that of the worldwi
   - 
 
 ### For More Information: *needs to be finished*
-Please review our full analysis in our [Technical Notebook](./technical_notebook.ipynb), our [Visualizations](./Visualizations), or our [Presentation]. 
+Please review our full analysis in our [Technical Notebook](./technical_notebook.ipynb), our [Visualizations](./Visualizations), or our [Presentation](./phase_1_presentation.pdf). 
 
 For any additional questions, please contact Victor Chen and Kevin McDonough
 
